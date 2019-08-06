@@ -7,9 +7,7 @@ The names should be stored in CoreData as an attribute of an entity named Person
 
 The application should look as follows:
 
-List            |  Entry
-:-------------------------:|:-------------------------:
-![](/list.png)  |  ![](entry.png)
+![List](list.png "List") ![Entry](entry.png "Entry")
 
 For bonus points, only display in the table those names which have a capitalised first and last name, as follows:
 'John Smith' = show
