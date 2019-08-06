@@ -23,5 +23,6 @@ We'll invite you to our office for a face to face interview with some members of
 Firstly, we'll hold a technical based session, where we ask you questions and work through the test you submitted. We'll likely ask you to augment the test in some way, and work through it with you.
 Lastly, we'll hold a soft-skill and culture based session, where we give a chance non-developer employees to get to know you, and make sure you will fit culturally.
 
-If the application is successful, we may send you an offer of employment and template contract to look through.
+## Next steps
+If your application is successful, we may send you an offer of employment and template contract to look through.
 If we're all happy, we'll get the paperwork signed and eagerly await your first day!
