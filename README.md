@@ -3,15 +3,15 @@
 </p>
 
 # iOS Playbook
-All things iOS @ LiveStyled
+In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our iOS team and how it operates.
 
 ## Introduction
-In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our iOS team and how it operates.
+This team looks after the LiveStyled's iOS platform. We develop new features, test them, fix any issues, generate new client apps, and deploy them to the App Store.
 
 ## Glossary
 - The team 👨‍ 👩‍
-- [Interview process]()
-- [Code reviews]() 📝
+- [Interview process](/interview)
+- [Code reviews](/etiquette) 📝
 
 ## The team
 | Name  | Info |
