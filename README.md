@@ -6,9 +6,8 @@ In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we p
 
 ## Glossary
 - The team 👨‍ 👩‍
-- The Cookbook
-- Interview process 
-- Code reviews 📝
+- [Interview process]() 
+- [Code reviews 📝]()
 
 ## The team
 | Name  | Info |
