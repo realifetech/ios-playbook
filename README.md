@@ -7,7 +7,7 @@ In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we p
 ## Glossary
 - The team 👨‍ 👩‍
 - [Interview process]() 
-- [Code reviews 📝]()
+- [Code reviews]() 📝
 
 ## The team
 | Name  | Info |
