@@ -11,7 +11,7 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 ## Glossary
 - The team 👨‍ 👩‍
 - [Interview process](/interview)
-- [Code reviews](/etiquette) 📝
+- [Coding Standards](/etiquette) 📝
 
 ## The team
 | Name  | Info |
