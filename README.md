@@ -4,8 +4,17 @@ All things iOS @ LiveStyled
 ## Introduction
 In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our iOS team and how it operates.
 
-## Glossary:
+## Glossary
 - The team 👨‍ 👩‍
 - The Cookbook
 - Interview process 
 - Code reviews 📝
+
+## The team
+| Name  | Info |
+| ------------- | ------------- |
+| Ross Patman  | - |
+| Mickey Lee  | - |
+| Jonathon Albert | - |
+| Emal Saifi  | - |
+| iOS Developer  | On hire! |
