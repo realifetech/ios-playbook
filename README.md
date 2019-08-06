@@ -9,7 +9,7 @@ In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we p
 This team looks after the LiveStyled's iOS platform. We develop new features, test them, fix any issues, generate new client apps, and deploy them to the App Store.
 
 ## Glossary
-- The team 👨‍ 👩‍
+- [The Team](#the-team) 👨‍👩‍
 - [Interview Process](/interview/README.md)
 - [Coding Standards](/etiquette/CODING_STANDARDS.md) 📝
 
