@@ -16,8 +16,8 @@ In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we p
 ## The team
 | Name  | Info |
 | ------------- | ------------- |
-| Ross Patman  | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
+| Ross Patman  | 󠁮󠁧🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Mickey Lee  | 🇹🇼 |
-| Jonathon Albert | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
+| Jonathon Albert | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Emal Saifi  | 🇫🇷 |
 | iOS Developer  | On hire! |
