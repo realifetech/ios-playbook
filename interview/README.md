@@ -8,7 +8,7 @@ The main goal of our interview process is for us to work out if we are a good fi
 Typically, our interview process consists of three stages:
 1. 15-30 minute phone interview
 2. Technical test
-3. ~2 hour face to face interview
+3. ~2 hour face to face interview  
 If you are successful in a stage, we will invite you to complete the next stage. If not, we will try to give you as much feedback as possible, so that your time has been spent constructively.
 
 ## Phone Interview
