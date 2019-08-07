@@ -6,7 +6,7 @@ We would like you complete this task using a the tools, libraries, and patterns 
 Write a Swift application with one UIViewController containing a table view that shows events in ascending date order, with the next upcoming event at the top, and the furthest away at the bottom.
 The event cells should display information about an event as follows:
 
-![Cells](event-cells.png "Cells")
+![Event Cells](event-cells.jpeg "Event Cells")
 
 Events should be fetched using the mock endpoint available at:
 [https://my-json-server.typicode.com/livestyled/mock-api/events](https://my-json-server.typicode.com/livestyled/mock-api/events).  
