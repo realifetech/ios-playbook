@@ -1,7 +1,7 @@
 # iOS Developer Technical Task
 Please spend no longer than half a day completing the following task. If you are not able to finish within this time, please add comments explaining your next steps to complete the task.
 
-We would like you complete this task using a the tools, libraries, and patterns that you are most comfortable with, and that you would use for a project of your own.
+We would like you complete this task using the tools, libraries, and patterns that you are most comfortable with, and that you would use for a project of your own.
 
 Write a Swift application with one UIViewController containing a table view that shows events in ascending date order, with the next upcoming event at the top, and the furthest away at the bottom.
 The event cells should display information about an event as follows:
