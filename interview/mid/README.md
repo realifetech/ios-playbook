@@ -3,7 +3,7 @@ Please spend no longer than half a day completing the following task. If you are
 
 We would like you complete this task using the tools, libraries, and patterns that you are most comfortable with, and that you would use for a project of your own.
 
-Write a Swift application with one UIViewController containing a table view that shows a list of events.
+Write a iPhone app in Swift that presents one view controller containing a table view that shows a list of events.
 The event cells should display information about an event as follows:
 
 ![Event Cells](event-cells.jpeg "Event Cells")
