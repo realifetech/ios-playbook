@@ -16,7 +16,7 @@ Individual `app/XXX` branches are manually configured, as they deploy to dedicat
 ## Requests for submission
 Requests to submit an app for Apple review should come in the following format via the corresponding app's Slack channel.  
 
-*iOS submit for review checklist: AppName Version(BuildNumber)*  
+**iOS submit for review checklist: AppName Version(BuildNumber)**  
 :white_check_mark: Confirm production tests are run and app signed off  
 :white_check_mark: Confirm there are no tickets not in ready for release  
 :white_check_mark: Ensure submission materials provided  
@@ -26,7 +26,7 @@ Requests to submit an app for Apple review should come in the following format v
 Requests to release an app that have been approved by Apple should come via the corresponding app's Slack channel.  
 We should respond to them with the following, checking off the items as we complete them. Details on each item can be found below.  
 
-*iOS release checklist: AppName Version(BuildNumber)*  
+**iOS release checklist: AppName Version(BuildNumber)**  
 :x:/:white_check_mark: Release app via iTC  
 :x:/:white_check_mark: Tag build and push tags  
 :x:/:white_check_mark: Update version history  
