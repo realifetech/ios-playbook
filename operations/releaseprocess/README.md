@@ -22,7 +22,7 @@ Requests to submit an app for Apple review should come in the following format v
 :white_check_mark: Ensure submission materials provided  
 :white_check_mark: Supply what’s new text  
 
-## Submission
+## Releasing to the :earth_africa:
 Requests to release an app that have been approved by Apple should come via the corresponding app's Slack channel.  
 We should respond to them with the following, checking off the items as we complete them. Details on each item can be found below.  
 
