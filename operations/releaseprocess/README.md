@@ -12,26 +12,22 @@ For the branches listed below, buddybuild will also deploy the app to iTunes Con
 Individual `app/XXX` branches are manually configured, as they deploy to dedicated iTunes Connect accounts.
 
 ## Buddybuild deployment configuration
+If you would like to deploy a branch to buddybuild, you must:
+1. Create a build override within app settings > build configurations, turning build for archive on
+2. Create a test override within app settings > test settings, turning only run tests off
+3. Set up code signing within app settings > code signing
+4. Create a deployment within deployments
 
-## Requests for submission
-Requests to submit an app for Apple review should come in the following format via the corresponding app's Slack channel.  
-
-**iOS submit for review checklist: AppName Version(BuildNumber)**  
-:white_check_mark: Confirm production tests are run and app signed off  
-:white_check_mark: Confirm there are no tickets not in ready for release  
-:white_check_mark: Ensure submission materials provided  
-:white_check_mark: Supply what’s new text  
-
-## Sign-in information
-Valid sign-in credentials should be provided for the corresponding environment if the app has sign-in functionality.
-
-## Notes
+## Submission materials
 Replace text in **bold** with corresponding values.  
+
+### Sign-in information
+Valid sign-in credentials should be provided for the corresponding environment if the app has sign-in functionality. 
 
 ### Apple Music (note, you should test that the deeplink/Apple Music playlist is enabled): 
 Through the app, users may in the future have the ability to listen to Apple Music playlists natively within the app. This feature would be accessible via deep-link from a button on the menu. We have chosen to not enable this button for submission as it will be enabled at a later date. For testing purposes, you can access a playlist via the following deep-link: **ReplaceWithAppDeepLinkScheme**://applemusic/pl.u-oZylD6gsGbX9XV6  
 
-###Colocator (only if Colocator is enabled):
+### Colocator (only if Colocator is enabled):
 -How does your app utilize background bluetooth-central, bluetooth-peripheral functionalities?  
 These methods are referenced by the Crowd Connected Colocator iOS SDK framework, which is embedded in the app. However, due to the manner in which the App uses the Crowd Connected Colocator iOS SDK, these methods are never actually called.  
 
@@ -46,6 +42,15 @@ Background location is used to accurately determine the user's current position.
 
 -If this app uses 3rd party SDKs for iBeacons, please provide links to their documentation showing that background location is required for it to function.
 You can find the Crowd Connected Colocator iOS SDK and its indoor positioning feature documentation at https://developers.colocator.net/sdk/ios
+
+## Requests for submission
+Requests to submit an app for Apple review should come in the following format via the corresponding app's Slack channel.  
+
+**iOS submit for review checklist: AppName Version(BuildNumber)**  
+:white_check_mark: Confirm production tests are run and app signed off  
+:white_check_mark: Confirm there are no tickets not in ready for release  
+:white_check_mark: Ensure submission materials provided  
+:white_check_mark: Supply what’s new text  
 
 ## Releasing to the :earth_africa:
 Requests to release an app that have been approved by Apple should come via the corresponding app's Slack channel.  
