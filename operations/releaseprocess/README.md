@@ -31,10 +31,10 @@ Replace text in **bold** with corresponding values.
 Through the app, users may in the future have the ability to listen to Apple Music playlists natively within the app. This feature would be accessible via deep-link from a button on the menu. We have chosen to not enable this button for submission as it will be enabled at a later date. For testing purposes, you can access a playlist via the following deep-link: **ReplaceWithAppDeepLinkScheme**://applemusic/pl.u-oZylD6gsGbX9XV6  
 
 *Colocator (only if Colocator is enabled):*  
-- How does your app utilize background bluetooth-central, bluetooth-peripheral functionalities?  
+-How does your app utilize background bluetooth-central, bluetooth-peripheral functionalities?  
 These methods are referenced by the Crowd Connected Colocator iOS SDK framework, which is embedded in the app. However, due to the manner in which the App uses the Crowd Connected Colocator iOS SDK, these methods are never actually called.  
 
-- Does this app detect startMonitoringForRegion:, startRangingBeaconsInRegion:, or both?  
+-Does this app detect startMonitoringForRegion:, startRangingBeaconsInRegion:, or both?  
 Both methods are used by the embedded Crowd Connected Colocator iOS SDK framework to more accurately determine the user's current location both indoors and out, minimising the dependency on GPS. These methods are not used continually. Actual calls to these methods are determined dynamically by the Crowd Connected Colocator system so they are only used in environments where they will be beneficial.
 
 -What is the user experience when the app detects the presence of a beacon?  
@@ -43,7 +43,7 @@ The Crowd Connected Colocator iOS SDK uses the presence of beacons to provide ac
 -What features in this app use background location?  
 Background location is used to accurately determine the user's current position. This information allows the app to target highly relevant push notifications, including emergency and safety messaging relevant to the venue/event.  
 
--- If this app uses 3rd party SDKs for iBeacons, please provide links to their documentation showing that background location is required for it to function.
+-If this app uses 3rd party SDKs for iBeacons, please provide links to their documentation showing that background location is required for it to function.
 You can find the Crowd Connected Colocator iOS SDK and its indoor positioning feature documentation at https://developers.colocator.net/sdk/ios
 
 ## Releasing to the :earth_africa:
