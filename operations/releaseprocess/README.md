@@ -58,11 +58,13 @@ We should respond to them with the following, checking off the items as we compl
 
 **iOS release checklist: AppName Version(BuildNumber)**  
 :x:/:white_check_mark: Release app via iTC  
+:x:/:white_check_mark: Upload dSYM file to Firebase Crashlytics  
 :x:/:white_check_mark: Tag build and push tags  
 :x:/:white_check_mark: Update version history  
 :x:/:white_check_mark: Move any tickets to done  
 
 *Release app via iTC* = press the button!  
+*Upload dSYM file to Firebase Crashlytics* = download the dSYMs file from buddybuild, unzip, find the .dSYM file that corresponds to the app (e.g. LiveStyled.app.dSYM), zip it, and upload it Firebase->Quality->Crashlytics (for the corresponding project) 
 *Tag build and push tags* = `git tag BranchName/X.X / git push --tags`  
 *Update version history* = update the date and colour for the app here: https://livestyled.atlassian.net/wiki/spaces/1LP/pages/103251969/iOS+Platform+Version+History  
 *Move any tickets to done* = move JIRA tickets to done and unassign  
