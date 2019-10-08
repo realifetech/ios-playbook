@@ -55,6 +55,6 @@ pod install --repo update
 3. Run the app
 
 ### To change the enabled features:
-1. Within Xcode, open **AppCongif.plist**
+1. Within Xcode, open **AppConfig.plist**
 2. Change the the value for the feature you wish to enable or disable
 3. Run the app
