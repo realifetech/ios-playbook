@@ -33,6 +33,20 @@ If you run into issues when switching between brances with different pods, you m
 pod install --repo update
 ```
 
+## Switching between branches/apps
+Fetch all branches using:
+```
+git fetch
+```
+Check out a branch using:
+```
+git checkout {branchname}
+```
+Reset changes using (you should do this when finished, and when switching branches):
+```
+git checkout .
+```
+
 ## Running the project
 
 ### Requirements
