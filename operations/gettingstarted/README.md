@@ -40,7 +40,21 @@ pod install --repo update
 
 ### Instructions
 1. Open the .workspace file in the project's directory
-2. Within Xcode's Product > Destination menu, select a device (simulator or plugged in device) to run the app on
-3. Within the same menu, select Run
+2. Within Xcode's **Product > Destination** menu, select a device (simulator or plugged in device) to run the app on
+3. Within the same menu, select **Run**, or hit the play button
 
-## Changing endpoints
+## Configuring environments
+### To change the environment that the app points to (staging or release):
+1. Within Xcode, select **Product > Scheme > Edit Scheme**.
+2. Within the Run scheme, choose either Staging or Release as the build configuration
+3. Run the app
+
+### To manually change the endpoints that the app points to:
+1. Within Xcode, open **Environments.plist**
+2. Change the base URL for the scheme you are running (e.g. **concertLiveAPIBaseURLV3**)
+3. Run the app
+
+### To change the enabled features:
+1. Within Xcode, open **AppCongif.plist**
+2. Change the the value for the feature you wish to enable or disable
+3. Run the app
