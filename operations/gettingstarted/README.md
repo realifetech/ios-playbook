@@ -2,27 +2,29 @@
 
 ## Repository setup
 
-**Requirements**
+### Requirements
 - A Bitbucket account added to the [frontier repository](https://bitbucket.org/livestyled-dev/frontier.ios/src/master/)
 - The [git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
 
-Our repository is hosted on Bitbucket at [
-The repository can be cloned via SSH or HTTPS.
-Run one of the following commands inside the directory that you want the project to reside within.
-SSH:
+### Instructions
+The above repository can be cloned via SSH or HTTPS.
+Run one of the following commands inside the directory that you want the project to reside within:  
+SSH
 ```
 git clone git@bitbucket.org:livestyled-dev/frontier.ios.git
 ```
-HTTPS:
+HTTPS
 ```
 git clone https://{yourusername}@bitbucket.org/livestyled-dev/frontier.ios.git
 ```
 
 ## Installing dependencies
 
-**Requirements**
+### Requirements
 - Permission to access the [Kaltura repository](https://livestyledios@bitbucket.org/livestyled-dev/kaltura-ios-sdk.git)
 - The [CocoaPods CLI](https://cocoapods.org)
+
+### Instructions
 Inside the project's directory, run:
 ```
 pod install
@@ -33,5 +35,12 @@ pod install --repo update
 ```
 
 ## Running the project
+
+### Requirements
+- XCode 10.2.1
+
+### Instructions
+1. Open the .workspace file in the project's directory
+
 
 ## Changing endpoints
