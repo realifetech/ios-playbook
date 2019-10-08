@@ -12,7 +12,7 @@ HTTPS:
 ```
 git clone https://{yourusername}@bitbucket.org/livestyled-dev/frontier.ios.git
 ```
-_Note, you will need to install [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](the git CLI)._
+_Note, you will need to install [the git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)._
 
 ## Installing dependencies
 
