@@ -4,7 +4,7 @@
 
 ### Requirements
 - A Bitbucket account added to the [frontier repository](https://bitbucket.org/livestyled-dev/frontier.ios/src/master/)
-- The [git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
+- The [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
 
 ### Instructions
 The above repository can be cloned by running the following terminal command within the project's directory via SSH:
