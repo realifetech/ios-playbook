@@ -7,13 +7,12 @@
 - The [git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed
 
 ### Instructions
-The above repository can be cloned via SSH or HTTPS.
-Run one of the following commands inside the directory that you want the project to reside within:  
+The above repository can be cloned by running the following terminal command within the project's directory via SSH:
 SSH
 ```
 git clone git@bitbucket.org:livestyled-dev/frontier.ios.git
 ```
-HTTPS
+or HTTPS:
 ```
 git clone https://{yourusername}@bitbucket.org/livestyled-dev/frontier.ios.git
 ```
@@ -41,6 +40,7 @@ pod install --repo update
 
 ### Instructions
 1. Open the .workspace file in the project's directory
-
+2. Within Xcode's Product > Destination menu, select a device (simulator or plugged in device) to run the app on
+3. Within the same menu, select Run
 
 ## Changing endpoints
