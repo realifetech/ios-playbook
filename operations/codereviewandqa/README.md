@@ -5,7 +5,7 @@
 - Does the work meet the requirements?
 - Are there sufficient unit tests?
 - Does the unit test suite run?
-- [Code smells](http://www.laputan.org/pub/patterns/fowler/smells.pdf)
+- [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
    - Duplicated code (if you see the same code in more than one place, it should be unified)
    - Long methods (are easier to test, more robust, and hide less complexity)
    - Large classes (usually don't obey the Single Responsibility Principle... split them up)
