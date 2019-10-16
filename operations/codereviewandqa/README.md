@@ -6,17 +6,17 @@
 - Are there sufficient unit tests?
 - Does the unit test suite run?
 - [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
-   - Duplicated code (if you see the same code in more than one place, it should be unified)
-   - Long methods (are easier to test, more robust, and hide less complexity)
-   - Large classes (usually don't obey the Single Responsibility Principle... split them up)
-   - Long parameter lists (are hard to read and difficult to use... just pass enough for the function to get what it needs, which may be an object)
-   - Divergent change (if you need to change multiple methods every time this other thing changes, multiple objects will be better than one)
-   - Shotgun surgery (a change requires lots of small changes in lots of classes)
-   - Feature envy (a method seems more interested in another class than the one it's in)
-   - Data clumps (the same data items together in lots of places... bunches of data that hang around together ought to be made into their own object)
-   - Lazy class (classes that don't do enough to pay for themselves should be removed)
-   - Middle man (delegation can go too far... cut out the middle-man if so)
-   - Comments (should be warranted when used, and not used to cover up unreadable code)
+   - Duplicated code *(if you see the same code in more than one place, it should be unified)*
+   - Long methods *(are easier to test, more robust, and hide less complexity)*
+   - Large classes *(usually don't obey the Single Responsibility Principle... split them up)*
+   - Long parameter lists *(are hard to read and difficult to use... just pass enough for the function to get what it needs, which may be an object)*
+   - Divergent change *(if you need to change multiple methods every time this other thing changes, multiple objects will be better than one)*
+   - Shotgun surgery *(a change requires lots of small changes in lots of classes)*
+   - Feature envy *(a method seems more interested in another class than the one it's in)*
+   - Data clumps *(the same data items together in lots of places... bunches of data that hang around together ought to be made into their own object)*
+   - Lazy class *(classes that don't do enough to pay for themselves should be removed)*
+   - Middle man *(delegation can go too far... cut out the middle-man if so)*
+   - Comments *(should be warranted when used, and not used to cover up unreadable code)*
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
 
