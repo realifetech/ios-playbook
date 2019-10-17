@@ -44,24 +44,15 @@ Background location is used to accurately determine the user's current position.
 You can find the Crowd Connected Colocator iOS SDK and its indoor positioning feature documentation at https://developers.colocator.net/sdk/ios
 
 ## Requests for submission
-Requests to submit an app for Apple review should come in the following format via the corresponding app's Slack channel.  
-
-**iOS submit for review checklist: AppName Version(BuildNumber)**  
-:white_check_mark: Confirm production tests are run and app signed off  
-:white_check_mark: Confirm there are no tickets not in ready for release  
-:white_check_mark: Ensure submission materials provided  
-:white_check_mark: Supply what’s new text  
+Requests to submit an app for Apple review must come via the **Request iOS Submission** workflow in the **app-releases** Slack channel:
 
 ## Releasing to the :earth_africa:
-Requests to release an app that have been approved by Apple should come via the corresponding app's Slack channel.  
-We should respond to them with the following, checking off the items as we complete them. Details on each item can be found below.  
+Requests to release an app that have been approved by Apple should come via the corresponding **app-releases** Slack channel.  
+We should respond to them using the **Document iOS Release** workflow, checking off the items as we complete them. Details on each item can be found below.  
 
-**iOS release checklist: AppName Version(BuildNumber)**  
-:x:/:white_check_mark: Release app via iTC  
-:x:/:white_check_mark: Upload dSYM file to Firebase Crashlytics  
-:x:/:white_check_mark: Tag build and push tags  
-:x:/:white_check_mark: Update version history  
-:x:/:white_check_mark: Move any tickets to done  
+<p align="center">
+  <img width="80%" height="auto" src="document-ios-release.png">
+</p>
 
 *Release app via iTC* = press the button!  
 *Upload dSYM file to Firebase Crashlytics* = download the dSYMs file from buddybuild, unzip, find the .dSYM file that corresponds to the app (e.g. LiveStyled.app.dSYM), zip it, and upload it Firebase->Quality->Crashlytics (for the corresponding project)  
