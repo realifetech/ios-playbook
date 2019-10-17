@@ -45,6 +45,7 @@ You can find the Crowd Connected Colocator iOS SDK and its indoor positioning fe
 
 ## Requests for submission
 Requests to submit an app for Apple review must come via the **Request iOS Submission** workflow in the **app-releases** Slack channel:
+<img src="request-ios-release.png">
 
 ## Releasing to the :earth_africa:
 Requests to release an app that have been approved by Apple should come via the corresponding **app-releases** Slack channel.  
