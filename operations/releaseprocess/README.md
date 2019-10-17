@@ -50,7 +50,7 @@ Requests to submit an app for Apple review must come via the **Request iOS Submi
 </p>
 
 ## Releasing to the :earth_africa:
-Requests to release an app that have been approved by Apple should come via the corresponding **app-releases** Slack channel.  
+Requests to release an app that have been approved by Apple should come via the **app-releases** Slack channel.  
 We should respond to them using the **Document iOS Release** workflow, checking off the items as we complete them. Details on each item can be found below.  
 <p align="center">
     <img src="document-ios-release.png">
