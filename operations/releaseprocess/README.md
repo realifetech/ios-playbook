@@ -44,8 +44,10 @@ Background location is used to accurately determine the user's current position.
 You can find the Crowd Connected Colocator iOS SDK and its indoor positioning feature documentation at https://developers.colocator.net/sdk/ios
 
 ## Requests for submission
-Requests to submit an app for Apple review must come via the **Request iOS Submission** workflow in the **app-releases** Slack channel:
-<img src="request-ios-release.png">
+Requests to submit an app for Apple review must come via the **Request iOS Submission** workflow in the **app-releases** Slack channel:  
+<p align="center">
+    <img src="request-ios-release.png">
+</p>
 
 ## Releasing to the :earth_africa:
 Requests to release an app that have been approved by Apple should come via the corresponding **app-releases** Slack channel.  
