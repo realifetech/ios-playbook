@@ -50,9 +50,7 @@ Requests to submit an app for Apple review must come via the **Request iOS Submi
 Requests to release an app that have been approved by Apple should come via the corresponding **app-releases** Slack channel.  
 We should respond to them using the **Document iOS Release** workflow, checking off the items as we complete them. Details on each item can be found below.  
 
-<p align="center">
-  <img width="80%" height="auto" src="document-ios-release.png">
-</p>
+<img src="document-ios-release.png">
 
 *Release app via iTC* = press the button!  
 *Upload dSYM file to Firebase Crashlytics* = download the dSYMs file from buddybuild, unzip, find the .dSYM file that corresponds to the app (e.g. LiveStyled.app.dSYM), zip it, and upload it Firebase->Quality->Crashlytics (for the corresponding project)  
