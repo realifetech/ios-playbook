@@ -1,6 +1,11 @@
 # Code Review and QA
 
 ## Code Review
+### Process
+1. Feature branches should be created using the epic or ticket number, e.g. feature/LS-XXX or feature/IOS-XXXX.  
+2. Once coding is complete, the JIRA ticket should be moved to Code Review, and a pull request created.  
+3. Once the code has been reviewed and approved by at least 2 people, the ticket should be assigned back to the creator.
+
 ### What to look for 👀
 - Does the work meet the requirements?
 - Are there sufficient unit tests?
@@ -23,7 +28,7 @@
 ### Checklist ✅
 **Copy the below as a comment in the pull request and fill in:**  
 :x::white_check_mark: Work meets the requirements  
-:x::white_check_mark: Branch updated from develop
+:x::white_check_mark: Branch updated from develop  
 :x::white_check_mark: SOLID principles not violated  
 :x::white_check_mark: Project runs  
 :x::white_check_mark: Test suite passes  
@@ -31,12 +36,6 @@
 :x::white_check_mark: No functionality unintentionally deprecated  
 :x::white_check_mark: Newly orphaned strings removed  
 :x::white_check_mark: Newly orphaned images removed  
-
-
-### Process
-1. Feature branches should be created using the epic or ticket number, e.g. feature/LS-XXX or feature/IOS-XXXX.  
-2. Once coding is complete, the JIRA ticket should be moved to Code Review, and a pull request created.  
-3. Once the code has been reviewed and approved by at least 2 people, the ticket should be assigned back to the creator.
 
 ## QA
 ### Process
