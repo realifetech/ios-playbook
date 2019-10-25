@@ -61,3 +61,9 @@ We should respond to them using the **Document iOS Release** workflow, checking 
 *Tag build and push tags* = `git tag BranchName/X.X / git push --tags`  
 *Update version history* = update the date and colour for the app [here](https://livestyled.atlassian.net/wiki/spaces/1LP/pages/103251969/iOS+Platform+Version+History)  
 *Move any tickets to done* = move JIRA tickets to done and unassign  
+
+## Timings:
+*Buddybuild:* ~25 minutes  
+*iTunes Connect processing:* ~30 minutes  
+*App store review time:* ~1 day  
+*App store expedited review time:* Usually <1 day to enter review  
