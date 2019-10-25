@@ -12,7 +12,7 @@
 :x::white_check_mark: Branch up to date with develop  
 :x::white_check_mark: Coding standards met  
 :x::white_check_mark: SOLID principles not violated  
-:x::white_check_mark: Code doesn't smell
+:x::white_check_mark: Code doesn't smell  
 :x::white_check_mark: Project runs  
 :x::white_check_mark: Test suite passes  
 :x::white_check_mark: Test coverage of new code is 100%  
