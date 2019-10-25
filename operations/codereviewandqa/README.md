@@ -20,6 +20,18 @@
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
 
+### Checklist
+**Copy the below as a comment in the pull request and fill in:**  
+:x::white_check_mark: Work meets the requirements  
+:x::white_check_mark: SOLID principles not violated  
+:x::white_check_mark: Project runs  
+:x::white_check_mark: Test suite passes  
+:x::white_check_mark: Test coverage of new code is 100%  
+:x::white_check_mark: No functionality unintentionally deprecated  
+:x::white_check_mark: Newly orphaned strings removed  
+:x::white_check_mark: Newly orphaned images removed  
+
+
 ### Process
 1. Feature branches should be created using the epic or ticket number, e.g. feature/LS-XXX or feature/IOS-XXXX.  
 2. Once coding is complete, the JIRA ticket should be moved to Code Review, and a pull request created.  
