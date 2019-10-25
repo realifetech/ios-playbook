@@ -18,7 +18,9 @@
 :x::white_check_mark: Test coverage of new code is 100%  
 :x::white_check_mark: No functionality unintentionally deprecated  
 :x::white_check_mark: Newly orphaned strings removed  
-:x::white_check_mark: Newly orphaned images removed  
+:x::white_check_mark: Newly orphaned images removed    
+
+If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
 ### References 📕
 - [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
