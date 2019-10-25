@@ -20,9 +20,10 @@
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
 
-### Checklist
+### Checklist ✅
 **Copy the below as a comment in the pull request and fill in:**  
 :x::white_check_mark: Work meets the requirements  
+:x::white_check_mark: Branch updated from develop
 :x::white_check_mark: SOLID principles not violated  
 :x::white_check_mark: Project runs  
 :x::white_check_mark: Test suite passes  
