@@ -7,7 +7,7 @@ The main goal of our interview process is for us to work out if we are a good fi
 
 Typically, our interview process consists of three stages:
 1. 15-30 minute phone interview
-2. [Technical task](/task)
+2. [Technical task](task)
 3. ~2 hour face-to-face interview  
 
 If you are successful in a stage, we will invite you to complete the next stage. If not, we will try to give you as much feedback as possible, so that your time has been spent constructively.
@@ -17,7 +17,7 @@ One of our developers will give you a quick call to find out a little bit about 
 We'll likely ask about your current work situation, experience, availability, and some basic technical questions. We're trying to find out if it will be beneficial for both of us to progress to the next stage of the application.
 
 ## Technical task
-We'll send you a [Technical task](/task) to complete in your own time. We realise that your time is precious, so we aren't going to ask anything outrageous of you. We want to get an idea of how you work and your practical technical skills.
+We'll send you a [technical task](task) to complete in your own time. We realise that your time is precious, so we aren't going to ask anything outrageous of you. We want to get an idea of how you work and your practical technical skills.
 
 ## F2F Interview
 We'll invite you to our office for a face-to-face interview with some members of our team. This will be typically split in two parts.
