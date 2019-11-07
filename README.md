@@ -24,3 +24,5 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 | Jonathon Albert | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Emal Saifi  | 🇫🇷 |
 | iOS Developer  | On hire! |
+
+Instagram: https://www.instagram.com/livestyledtalent/
