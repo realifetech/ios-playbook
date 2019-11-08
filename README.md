@@ -11,7 +11,6 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 ## Glossary
 - [The Team](#the-team) 👨‍👩‍
 - [Interview Process](/interview) 🤔
-- [Coding Standards](/etiquette/CODING_STANDARDS.md) 📝
 - [Getting Started](/operations/gettingstarted/README.md) 🏃‍
 - [Code Review and QA](/operations/codereviewandqa/README.md) 👓
 - [Release Process](/operations/releaseprocess/README.md) 🌍
