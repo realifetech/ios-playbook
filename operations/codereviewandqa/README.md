@@ -37,11 +37,11 @@ If changes are required, specify them in your comment. You can then edit your ch
    - **Middle man:** delegation can go too far... cut out the middle-man if so
    - **Comments:** should be warranted when used, and not used to cover up unreadable code
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
-   - **Single Responsibility:** a class should have one just one responsibility
-   - **Open/Closed:** entities should be open for extension but closed for modification
+   - **Single responsibility:** a class should have one just one responsibility
+   - **Open/closed:** entities should be open for extension but closed for modification
    - **Liskov's:** objects should be replaceable with instances of their subclasses without breaking the program
-   - **Interface Segregation:** many small and focused interfaces are better than one general-purpose interface
-   - **Dependency Inversion:** one should depend on abstractions and not on concretions
+   - **Interface segregation:** many small and focused interfaces are better than one general-purpose interface
+   - **Dependency inversion:** one should depend on abstractions and not on concretions
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
 
 ## QA
