@@ -24,7 +24,7 @@
 If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
 ### References 📕
-- [Coding standards](https://github.com/raywenderlich/swift-style-guide). We follow Ray Wenderlich's style guide ⬅.
+- [Coding standards](https://github.com/raywenderlich/swift-style-guide). We follow Ray Wenderlich's style guide.
 - [Linting](https://github.com/realm/SwiftLint). We use Realm's SwiftLint tool, which will fail the build if there are more than 6 warnings.
 - [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
    - **Duplicated code:** if you see the same code in more than one place, it should be unified
