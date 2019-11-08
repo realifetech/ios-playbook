@@ -25,4 +25,4 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 | Senior iOS Developer  | On hire! |
 | iOS Developer  | On hire! |
 
-Instagram: https://www.instagram.com/livestyledtalent/
+📸 Instagram: https://www.instagram.com/livestyledtalent/
