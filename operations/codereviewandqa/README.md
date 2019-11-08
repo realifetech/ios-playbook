@@ -15,8 +15,8 @@
 :hammer_and_wrench::white_check_mark: UI constraints set up correctly and not producing warnings  
 :hammer_and_wrench::white_check_mark: Work meets the requirements  
 :hammer_and_wrench::white_check_mark: Coding standards met  
-:hammer_and_wrench::white_check_mark: SOLID principles not violated  
 :hammer_and_wrench::white_check_mark: Code free of code smells  
+:hammer_and_wrench::white_check_mark: SOLID principles not violated  
 :hammer_and_wrench::white_check_mark: Architectural standards met  
 :hammer_and_wrench::white_check_mark: No functionality unintentionally deprecated  
 :hammer_and_wrench::white_check_mark: Newly orphaned strings and images removed   
@@ -44,7 +44,6 @@ If changes are required, specify them in your comment. You can then edit your ch
    - **Liskov's:** objects should be replaceable with instances of their subclasses without breaking the program
    - **Interface segregation:** many small and focused interfaces are better than one general-purpose interface
    - **Dependency inversion:** one should depend on abstractions and not on concretions
-- [Coding standards](/etiquette/CODING_STANDARDS.md)
 - [Clean Code summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ## QA
