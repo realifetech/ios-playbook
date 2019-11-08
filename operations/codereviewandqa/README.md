@@ -8,18 +8,17 @@
 
 ### Checklist ✅
 **Copy the below as a comment in the pull request and fill in:**  
-:hammer_and_wrench::white_check_mark: Work meets the requirements  
-:hammer_and_wrench::white_check_mark: Branch up to date with develop  
-:hammer_and_wrench::white_check_mark: Coding standards met  
-:hammer_and_wrench::white_check_mark: SOLID principles not violated  
-:hammer_and_wrench::white_check_mark: Code free of code smells  
-:hammer_and_wrench::white_check_mark: Architectural standards met  
-:hammer_and_wrench::white_check_mark: Project runs  
-:hammer_and_wrench::white_check_mark: Test suite passes  
-:hammer_and_wrench::white_check_mark: Test coverage of new code is 100%  
-:hammer_and_wrench::white_check_mark: No functionality unintentionally deprecated  
-:hammer_and_wrench::white_check_mark: Newly orphaned strings removed  
-:hammer_and_wrench::white_check_mark: Newly orphaned images removed    
+:tools::white_check_mark: Project runs  
+:tools::white_check_mark: Test suite passes  
+:tools::white_check_mark: Test coverage of new code is > 75%  
+:tools::white_check_mark: UI constraints set up correctly and not producing warnings  
+:tools::white_check_mark: Work meets the requirements  
+:tools::white_check_mark: Coding standards met  
+:tools::white_check_mark: SOLID principles not violated  
+:tools::white_check_mark: Code free of code smells  
+:tools::white_check_mark: Architectural standards met  
+:tools::white_check_mark: No functionality unintentionally deprecated  
+:tools::white_check_mark: Newly orphaned strings and images removed   
 
 If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
