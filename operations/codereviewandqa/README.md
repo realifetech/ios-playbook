@@ -25,23 +25,23 @@ If changes are required, specify them in your comment. You can then edit your ch
 
 ### References 📕
 - [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
-   - **Duplicated code** (if you see the same code in more than one place, it should be unified)
-   - **Long methods** (are harder to test, less robust, and hide complexity)
-   - **Large classes** (usually don't obey the Single Responsibility Principle... split them up)
-   - **Long parameter** lists (are hard to read and difficult to use... just pass enough for the function to get what it needs, which may be an object)
-   - **Divergent change** (if you need to change multiple methods every time this other thing changes, multiple objects will be better than one)
-   - **Shotgun surgery** (a change requires lots of small changes in lots of classes)
-   - **Feature envy** (a method seems more interested in another class than the one it's in)
-   - **Data clumps** (the same data items together in lots of places... bunches of data that hang around together ought to be made into their own object)
-   - **Lazy class** (classes that don't do enough to pay for themselves should be removed)
-   - **Middle man** (delegation can go too far... cut out the middle-man if so)
-   - **Comments** (should be warranted when used, and not used to cover up unreadable code)
+   - **Duplicated code:** if you see the same code in more than one place, it should be unified
+   - **Long methods:** are harder to test, less robust, and hide complexity
+   - **Large classes:** usually don't obey the Single Responsibility Principle... split them up
+   - **Long parameter:** lists are hard to read and difficult to use... just pass enough for the function to get what it needs, which may be an object
+   - **Divergent change:** if you need to change multiple methods every time this other thing changes, multiple objects will be better than one
+   - **Shotgun surgery:** a change requires lots of small changes in lots of classes
+   - **Feature envy:** a method seems more interested in another class than the one it's in
+   - **Data clumps:** the same data items together in lots of places... bunches of data that hang around together ought to be made into their own object
+   - **Lazy class:** classes that don't do enough to pay for themselves should be removed
+   - **Middle man:** delegation can go too far... cut out the middle-man if so
+   - **Comments:** should be warranted when used, and not used to cover up unreadable code
 - [SOLID principles](https://en.wikipedia.org/wiki/SOLID)
-   - **Single Responsibility Principle** (A class should have one just one responsibility)
-   - **Open/Closed Principle** (Entities should be open for extension but closed for modification)
-   - **Liskov's Principle** (Objects should be replaceable with instances of their subclasses without breaking the program)
-   - **Interface Segregation Principle** (Many small and focused interfaces are better than one general-purpose interface)
-   - **Dependency Inversion Principle** (One should depend on abstractions and not on concretions)
+   - **Single Responsibility:** a class should have one just one responsibility
+   - **Open/Closed:** entities should be open for extension but closed for modification
+   - **Liskov's:** objects should be replaceable with instances of their subclasses without breaking the program
+   - **Interface Segregation:** many small and focused interfaces are better than one general-purpose interface
+   - **Dependency Inversion:** one should depend on abstractions and not on concretions
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
 
 ## QA
