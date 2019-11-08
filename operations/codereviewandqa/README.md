@@ -11,6 +11,7 @@
 :hammer_and_wrench::white_check_mark: Project runs  
 :hammer_and_wrench::white_check_mark: Test suite passes  
 :hammer_and_wrench::white_check_mark: Test coverage of new code > 75%  
+:hammer_and_wrench::white_check_mark: No lint warnings introduced  
 :hammer_and_wrench::white_check_mark: UI constraints set up correctly and not producing warnings  
 :hammer_and_wrench::white_check_mark: Work meets the requirements  
 :hammer_and_wrench::white_check_mark: Coding standards met  
@@ -23,6 +24,8 @@
 If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
 ### References 📕
+- [Coding standards](https://github.com/raywenderlich/swift-style-guide). We follow Ray Wenderlich's style guide ⬅.
+- [Linting](https://github.com/realm/SwiftLint). We use Realm's SwiftLint tool, which will fail the build if there are more than 6 warnings.
 - [Code smells](codesmells.pdf). Our favourites are below, with tips to fix inside the link ⬅.
    - **Duplicated code:** if you see the same code in more than one place, it should be unified
    - **Long methods:** are harder to test, less robust, and hide complexity
