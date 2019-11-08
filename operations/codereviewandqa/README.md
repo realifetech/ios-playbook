@@ -43,6 +43,7 @@ If changes are required, specify them in your comment. You can then edit your ch
    - **Interface segregation:** many small and focused interfaces are better than one general-purpose interface
    - **Dependency inversion:** one should depend on abstractions and not on concretions
 - [Coding standards](/etiquette/CODING_STANDARDS.md)
+- [Clean Code summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ## QA
 ### Process 🔖
