@@ -38,7 +38,7 @@ If changes are required, specify them in your comment. You can then edit your ch
    - **Lazy class:** classes that don't do enough to pay for themselves should be removed
    - **Middle man:** delegation can go too far... cut out the middle-man if so
    - **Comments:** should be warranted when used, and not used to cover up unreadable code
-- [SOLID principles](https://en.wikipedia.org/wiki/SOLID) [Playground](SOLID.playground)
+- [SOLID principles](https://en.wikipedia.org/wiki/SOLID) ([Swift examples](SOLID.swift))
    - **Single responsibility:** a class should have one just one responsibility
    - **Open/closed:** entities should be open for extension but closed for modification
    - **Liskov's:** objects should be replaceable with instances of their subclasses without breaking the program
