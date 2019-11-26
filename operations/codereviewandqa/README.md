@@ -8,9 +8,9 @@
 
 ### Checklist ✅
 **Copy the below as a comment in the pull request and fill in:**  
-:hammer_and_wrench::white_check_mark: Project runs  
 :hammer_and_wrench::white_check_mark: Test suite passes  
 :hammer_and_wrench::white_check_mark: Test coverage of new code > 75%  
+:hammer_and_wrench::white_check_mark: Project runs  
 :hammer_and_wrench::white_check_mark: No lint warnings introduced  
 :hammer_and_wrench::white_check_mark: UI constraints set up correctly and not producing warnings  
 :hammer_and_wrench::white_check_mark: Work meets the requirements  
