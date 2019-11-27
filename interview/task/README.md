@@ -24,7 +24,7 @@ We would like to see a completed test containing the following:
 - A readme
 - A compiling project
 - A scalable implementation of Pagination
-- An implementation of Persistent Storage
+- An implementation of offline usage
 - Good project organisation
 - Good choice of architectural pattern (we don't mind which but think about how the test could be extended in the future)
 
