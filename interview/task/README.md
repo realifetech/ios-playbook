@@ -10,10 +10,9 @@ The cells of the list should display information about an event as follows:
 
 ![Event Cells](event-cells.jpeg "Event Cells")
 
-Events should be fetched using the mock endpoint available at:
-[http://my-json-server.typicode.com/livestyled/mock-api/events?_page=1](http://my-json-server.typicode.com/livestyled/mock-api/events?_page=1).  
+Events should be fetched using [this endpoint](https://us-central1-techtaskapi.cloudfunctions.net/events).  
 
-*Note, this endpoint is paginated, and returns only 10 results at a time. To display the full list, you will either need to implement pagination by fetching the desired page using the \_page query parameter, or increase the limit on the response length using the limit query parameter. We'll leave it up to you to decide which of these we'd prefer* 😉.
+*Note, this endpoint is paginated, and returns only 10 results at a time. To display the full list, you will either need to implement pagination by fetching the desired page using the **page** query parameter, or increase the limit on the response length using the limit query parameter. We'll leave it up to you to decide which of these we'd prefer* 😉.
 
 We would like you to allow the user to favourite/unfavourite events by tapping a button on the cell which indicates the current state. These actions should be persisted locally on the device.
 
