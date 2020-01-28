@@ -22,7 +22,7 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 | Mickey Lee  | 🇹🇼 |
 | Jonathon Albert | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Emal Saifi  | 🇫🇷 |
+| Olivier Butler  | 🇫🇷 🇬🇧 󠁧󠁢󠁥󠁮󠁧|
 | Senior iOS Developer  | On hire! |
-| iOS Developer  | On hire! |
 
 📸 Instagram: https://www.instagram.com/livestyledtalent/
