@@ -17,7 +17,7 @@ Events should be fetched using the mock endpoint available at:
 
 We would like you to allow the user to favourite/unfavourite events by tapping a button on the cell which indicates the current state. These actions should be persisted locally on the device.
 
-The application should also be usable in an offline state, that means presenting some information to the user if there is no data, otherwise showing the data that has been downloaded.
+The application should also be usable in an offline state. Persisted events should be presented to the user if there is no connection, with up-to-date events being presented if a connection is available.
 
 We would like to see a completed test containing the following: 
 - A readme
