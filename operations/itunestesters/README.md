@@ -13,7 +13,7 @@ The process to add a user as an internal tester is as follows:
 
  1. After logging in, you will be presented with the following screen, **select 'users and access'**
  <p align="center">
-     <img src="internal/itunesConnect_homepage.png">
+     <img src="/internal/itunesConnect_homepage.png">
  </p>
 
  2. You will now see a list of users who are currently internal testers within the host organisation.
