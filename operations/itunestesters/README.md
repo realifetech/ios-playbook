@@ -18,34 +18,34 @@ The process to add a user as an internal tester is as follows:
 
  2. You will now see a list of users who are currently internal testers within the host organisation.
  <p align="center">
-     <img src="internal/internalUser_list.png">
+     <img src="Internal/internalUser_list.png">
  </p>
 
 3. **Select the blue '+' icon** and you will be presented with a dialogue box as similar to the one below
  <p align="center">
-     <img src="internal/internalUser_dialogueBox.png">
+     <img src="Internal/internalUser_dialogueBox.png">
  </p>
 
 4. Fill in the information required and set a permissions level, depending on how much access you wish to give the user. Admin affords the greatest level of permissions and is capable of performing all tasks, if the new user is required to add and configure new and existing users then "App Manager" should be sufficient, if the user is being added only to receive internal builds and nothing else, then "Marketing" or "Customer Support" would be fine.
 <p align="center">
-    <img src="internal/internalUser_dialogueBox_complete.png">
+    <img src="Internal/internalUser_dialogueBox_complete.png">
 </p>
 
 5. After **tapping the 'invite' button** you should be directed back to the list of internal testers with a new user added, they will have received an email inviting them to the account, **they must accept this** otherwise they will not be able to be added to apps as testers and subsequently not receive any builds of apps that are released.
 
 6.  Back on the home screen and once the invited user has accepted their email request, **select 'My Apps'** and navigate into the app you are looking to add them to. **select 'testflight'** from the top bar and you should see the following screen.
 <p align="center">
-    <img src="internal/testflight_builds_page.png">
+    <img src="Internal/testflight_builds_page.png">
 </p>
 
 7. **Select 'App Store Connect Users'** from the right hand menu, you will be presented with a list of users that you saw previously in the 'Users and Access' section but who have already been invited to receive builds.
 <p align="center">
-    <img src="internal/testflight_appStoreUsers_page.png">
+    <img src="Internal/testflight_appStoreUsers_page.png">
 </p>
 
 8. **Select the blue '+' icon** and you will see the following scrollable dialogue box, scroll through until you see the user that you want to add, **note - if they are not there, they haven't accepted the first email**. Once selected, **select the 'add' button**, a second email will be sent to the user and they will be invited to receive builds via testFlight (apple's test app distribution system, available on the appstore).
 <p align="center">
-    <img src="internal/internalTester_build_dialogue.png">
+    <img src="Internal/internalTester_build_dialogue.png">
 </p>
 
 9. Once the user has downloaded the testFlight app and tapped the link in the email, they will then be able to access all existing and future builds of the app.
