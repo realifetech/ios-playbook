@@ -26,7 +26,7 @@ The process to add a user as an internal tester is as follows:
      <img src="internal/internalUser_dialogueBox.png">
  </p>
 
-4. Fill in the information required and set a permissions level, depending on how much access you wish to give the user. Admin affords the greatest level of permissions and is capable of performing all tasks, if the new user is required to add and configure new and existing users then "App Manager" should be sufficient. If the user is being added only to receive internal builds and nothing else, then "Marketing" or "Customer Support" would be fine.
+4. Fill in the information required and set a permissions level, depending on how much access you wish to give the user. Admin affords the greatest level of permissions and is capable of performing all tasks. If the new user is required to add and configure new and existing users then "App Manager" should be sufficient. If the user is being added only to receive internal builds and nothing else, then "Marketing" or "Customer Support" would be fine.
 <p align="center">
     <img src="internal/internalUser_dialogueBox_complete.png">
 </p>
