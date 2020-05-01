@@ -13,6 +13,7 @@
 :hammer_and_wrench::white_check_mark: Project runs  
 :hammer_and_wrench::white_check_mark: No lint warnings introduced  
 :hammer_and_wrench::white_check_mark: UI constraints set up correctly and not producing warnings  
+:hammer_and_wrench::white_check_mark: Screenshots provided of UI match designs 
 :hammer_and_wrench::white_check_mark: Work meets the requirements  
 :hammer_and_wrench::white_check_mark: Coding standards met  
 :hammer_and_wrench::white_check_mark: Code free of code smells  
@@ -20,6 +21,7 @@
 :hammer_and_wrench::white_check_mark: Architectural standards met  
 :hammer_and_wrench::white_check_mark: No functionality unintentionally deprecated  
 :hammer_and_wrench::white_check_mark: Newly orphaned strings and images removed   
+
 
 If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
