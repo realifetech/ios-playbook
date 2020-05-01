@@ -22,7 +22,6 @@
 :hammer_and_wrench::white_check_mark: No functionality unintentionally deprecated  
 :hammer_and_wrench::white_check_mark: Newly orphaned strings and images removed   
 
-
 If changes are required, specify them in your comment. You can then edit your checklist when the changes have been made.
 
 ### References 📕
