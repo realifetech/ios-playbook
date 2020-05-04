@@ -13,6 +13,7 @@
 :hammer_and_wrench::white_check_mark: Project runs  
 :hammer_and_wrench::white_check_mark: No lint warnings introduced  
 :hammer_and_wrench::white_check_mark: UI constraints set up correctly and not producing warnings  
+:hammer_and_wrench::white_check_mark: Screenshots provided of UI match designs 
 :hammer_and_wrench::white_check_mark: Work meets the requirements  
 :hammer_and_wrench::white_check_mark: Coding standards met  
 :hammer_and_wrench::white_check_mark: Code free of code smells  
