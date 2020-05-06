@@ -14,7 +14,7 @@ protocol ___VARIABLE_sceneName___InteractorProtocol {
 
 class ___VARIABLE_sceneName___Interactor {
 
-    var presenter:  ___VARIABLE_sceneName___PresenterProtocol?
+    var presenter: ___VARIABLE_sceneName___PresenterProtocol?
     let worker: ___VARIABLE_sceneName___WorkerProtocol
 
     init(worker: ___VARIABLE_sceneName___Worker) {
