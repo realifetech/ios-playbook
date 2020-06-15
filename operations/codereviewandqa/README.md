@@ -2,7 +2,7 @@
 
 ## Code Review
 ### Process 🔖
-1. Feature branches should be created using the epic or ticket number, e.g. feature/LS-XXX or feature/IOS-XXXX.  
+1. Feature branches should be created using the epic or ticket number, e.g. feature/LSN-XXXX.  
 2. Once coding is complete, the JIRA ticket should be moved to Code Review, and a pull request created.  
 3. Once the code has been reviewed and approved by at least 2 people, the ticket should be assigned back to the creator.
 
