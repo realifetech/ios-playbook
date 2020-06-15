@@ -12,4 +12,4 @@ We have created a template and makefile to easily generate the files required.
 *Through Finder*
 1. Open Finder
 2. Go to folder: `~/Library/Developer/Xcode/Templates`
-3. Copy the foder `VIP` to above path
+3. Copy the folder `VIP` to above path
