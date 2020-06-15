@@ -15,6 +15,7 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 - [Code Review and QA](/operations/codereviewandqa/README.md) 👓
 - [Release Process](/operations/releaseprocess/README.md) 🌍
 - [Adding Testers](/operations/itunestesters/README.md) 🧪
+- [VIP Template](/resources/vip-template/README.md) 📑
 
 ## The team
 | Name  | Info |
