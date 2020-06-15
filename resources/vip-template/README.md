@@ -1,5 +1,7 @@
 # VIP Scene Templates
-To increase the test coverage and refactor to more testable codebase, we start implementing Clean Swift VIP architecture. Based on the [introduction](https://clean-swift.com/), we create a template and a makefile to generate a scene easily.
+To ensure the codebase is more testable, we started implementing Clean VIP architecture. Based on the implementation [Here](https://clean-swift.com/).
+
+We have created a template and makefile to easily generate the files required.
 
 ## Installation
 *Through Terminal*
