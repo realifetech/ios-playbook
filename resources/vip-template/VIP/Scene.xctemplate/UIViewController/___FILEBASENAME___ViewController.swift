@@ -24,7 +24,7 @@ class ___VARIABLE_sceneName___ViewController: UIViewController, ___VARIABLE_scen
 
     convenience init() {
         self.init()
-        ___VARIABLE_sceneName___Composer.compose(vc: self)
+        ___VARIABLE_sceneName___Composer.compose(view: self)
     }
 
     override func viewDidLoad() {
