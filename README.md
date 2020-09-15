@@ -25,6 +25,5 @@ This team looks after the RealifeTech's iOS platform. We develop new features, t
 | Jonathon Albert | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Emal Saifi  | 🇫🇷 |
 | Olivier Butler  | 🇫🇷 🇬🇧 󠁧󠁢󠁥󠁮󠁧|
-| Senior iOS Developer  | On hire! |
 
 📸 Instagram: https://www.instagram.com/realifetechtalent/
