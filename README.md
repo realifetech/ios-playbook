@@ -3,10 +3,10 @@
 </p>
 
 # iOS Playbook
-In the spirit of one of LiveStyled's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our iOS team and how it operates.
+In the spirit of one of RealifeTech's core behaviours, "Communicate openly", we present to you the iOS playbook, which aims to provide information about our iOS team and how it operates.
 
 ## Introduction
-This team looks after the LiveStyled's iOS platform. We develop new features, test them, fix any issues, generate new client apps, and deploy them to the App Store.
+This team looks after the RealifeTech's iOS platform. We develop new features, test them, fix any issues, generate new client apps, and deploy them to the App Store.
 
 ## Glossary
 - [The Team](#the-team) 👨‍👩‍
@@ -27,4 +27,4 @@ This team looks after the LiveStyled's iOS platform. We develop new features, te
 | Olivier Butler  | 🇫🇷 🇬🇧 󠁧󠁢󠁥󠁮󠁧|
 | Senior iOS Developer  | On hire! |
 
-📸 Instagram: https://www.instagram.com/livestyledtalent/
+📸 Instagram: https://www.instagram.com/realifetechtalent/
