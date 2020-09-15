@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="170" height="auto" src="logo.png">
+  <img width="340" height="auto" src="logo.png">
 </p>
 
 # iOS Playbook
