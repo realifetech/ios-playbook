@@ -9,25 +9,20 @@
 import UIKit
 
 protocol ___VARIABLE_sceneName___ViewProtocol: class {
-    var vc: ___VARIABLE_sceneName___ViewController? { get }
-    var interactor: ___VARIABLE_sceneName___InteractorProtocol? { get set }
-    var router: ___VARIABLE_sceneName___RouterProtocol? { get set }
-
-    // Replaced by interactor's output functions and conform the protocol in presenter
+    func bind(to: ___VARIABLE_sceneName___InteractorProtocol)
+    func dismiss(animated: Bool, completion: (() -> Void)?)
+    // Replaced by interactor's output functions
 }
 
-class ___VARIABLE_sceneName___ViewController: UIViewController, ___VARIABLE_sceneName___ViewProtocol {
+final class ___VARIABLE_sceneName___ViewController: UIViewController {
 
-    weak var vc: ___VARIABLE_sceneName___ViewController? { self }
-    var interactor: ___VARIABLE_sceneName___InteractorProtocol?
-    var router: ___VARIABLE_sceneName___RouterProtocol?
-
-    convenience init() {
-        self.init()
-        ___VARIABLE_sceneName___Composer.compose(view: self)
+    private var interactor: ___VARIABLE_sceneName___InteractorProtocol = {
+        fatalError("Please set an interactor through the bind function")
     }
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
+    func bind(to interactor: ___VARIABLE_sceneName___InteractorProtocol) {
+        self.interactor = interactor
     }
 }
+
+extension ___VARIABLE_sceneName___ViewController: ___VARIABLE_sceneName___ViewProtocol { }

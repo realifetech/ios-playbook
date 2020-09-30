@@ -9,17 +9,20 @@
 import Foundation
 
 protocol ___VARIABLE_sceneName___InteractorProtocol {
-    // Replaced by interactor's output functions and conform the protocol in presenter
+    // Replaced by view's output functions
 }
 
-class ___VARIABLE_sceneName___Interactor {
+final class ___VARIABLE_sceneName___Interactor {
 
-    var presenter: ___VARIABLE_sceneName___PresenterProtocol?
-    let worker: ___VARIABLE_sceneName___WorkerProtocol
+    private let presenter: ___VARIABLE_sceneName___PresenterProtocol
+    private let router: ___VARIABLE_sceneName___RouterProtocol
+    private let worker: ___VARIABLE_sceneName___WorkerProtocol
 
-    init(worker: ___VARIABLE_sceneName___Worker) {
+    init(presenter: ___VARIABLE_sceneName___PresenterProtocol, router: ___VARIABLE_sceneName___RouterProtocol, worker: ___VARIABLE_sceneName___Worker) {
+        self.presenter = presenter
+        self.router = router
         self.worker = worker
     }
 }
 
-extension ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___InteractorProtocol {}
+extension ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___InteractorProtocol { }
