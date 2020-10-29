@@ -15,6 +15,7 @@ This team looks after the RealifeTech's iOS platform. We develop new features, t
 - [Code Review and QA](/operations/codereviewandqa/README.md) 👓
 - [Release Process](/operations/releaseprocess/README.md) 🌍
 - [Adding Testers](/operations/itunestesters/README.md) 🧪
+- [Re-skin Client Apps](/operations/reskinclientapps/README.md) 📱
 - [VIP Template](/resources/vip-template/README.md) 📑
 
 ## The team
