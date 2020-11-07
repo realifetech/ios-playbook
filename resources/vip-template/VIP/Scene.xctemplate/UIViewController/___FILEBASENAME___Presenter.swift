@@ -8,13 +8,17 @@
 
 import UIKit
 
-protocol ___VARIABLE_sceneName___PresenterProtocol: class {
-    // Replaced by presenter's output functions and conform the protocol in the view controller
+protocol ___VARIABLE_sceneName___Presentable: class {
+    // Replaced by interactor's display output functions
 }
 
-class ___VARIABLE_sceneName___Presenter {
+final class ___VARIABLE_sceneName___Presenter {
 
-    weak var view: ___VARIABLE_sceneName___ViewProtocol?
+    private weak var view: ___VARIABLE_sceneName___Viewable?
+
+    func bind(to view: ___VARIABLE_sceneName___Viewable) {
+        self.view = view
+    }
 }
 
-extension ___VARIABLE_sceneName___Presenter: ___VARIABLE_sceneName___PresenterProtocol {}
+extension ___VARIABLE_sceneName___Presenter: ___VARIABLE_sceneName___Presentable {}
