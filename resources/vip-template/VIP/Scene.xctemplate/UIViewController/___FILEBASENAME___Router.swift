@@ -12,10 +12,10 @@ protocol ___VARIABLE_sceneName___Routable {}
 
 final class ___VARIABLE_sceneName___Router {
 
-    private weak var view: ___VARIABLE_sceneName___Viewable?
+    private weak var vc: UIViewController?
 
-    func bind(to view: ___VARIABLE_sceneName___Viewable?) {
-        self.view = view
+    func bind(to vc: UIViewController?) {
+        self.vc = vc
     }
 }
 

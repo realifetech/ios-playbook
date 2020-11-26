@@ -14,8 +14,8 @@ protocol ___VARIABLE_sceneName___Interactable {
 
 final class ___VARIABLE_sceneName___Interactor {
 
-    let presenter: ___VARIABLE_sceneName___Presentable
-    let worker: ___VARIABLE_sceneName___Workable
+    private let presenter: ___VARIABLE_sceneName___Presentable
+    private let worker: ___VARIABLE_sceneName___Workable
 
     init(presenter: ___VARIABLE_sceneName___Presentable, worker: ___VARIABLE_sceneName___Workable) {
         self.presenter = presenter

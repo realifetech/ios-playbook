@@ -16,7 +16,7 @@ final class ___VARIABLE_sceneName___Presenter {
 
     private weak var view: ___VARIABLE_sceneName___Viewable?
 
-    func bind(to view: ___VARIABLE_sceneName___Viewable) {
+    init(view: ___VARIABLE_sceneName___Viewable?) {
         self.view = view
     }
 }
