@@ -6,13 +6,13 @@
 //  ___COPYRIGHT___
 //
 
-import UIKit
+import Foundation
 
 protocol ___VARIABLE_sceneName___PresenterProtocol: class {
-    // Replaced by presenter's output functions and conform the protocol in the view controller
+    // Replaced by interactor's display output functions
 }
 
-class ___VARIABLE_sceneName___Presenter {
+final class ___VARIABLE_sceneName___Presenter {
 
     weak var view: ___VARIABLE_sceneName___ViewProtocol?
 }

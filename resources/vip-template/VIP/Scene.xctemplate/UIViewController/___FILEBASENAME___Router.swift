@@ -8,9 +8,11 @@
 
 import UIKit
 
-protocol ___VARIABLE_sceneName___RouterProtocol {}
+protocol ___VARIABLE_sceneName___RouterProtocol {
+    // Replace by interactor's navigation output
+}
 
-class ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___RouterProtocol {
+final class ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___RouterProtocol {
 
-    weak var vc: ___VARIABLE_sceneName___ViewController?
+    weak var view: ___VARIABLE_sceneName___ViewProtocol?
 }

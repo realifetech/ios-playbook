@@ -8,4 +8,4 @@
 
 import Foundation
 
-struct ___VARIABLE_sceneName___ViewModel {}
+struct ___VARIABLE_sceneName___ViewModel { }
