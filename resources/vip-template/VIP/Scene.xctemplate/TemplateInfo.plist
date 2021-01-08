@@ -33,29 +33,14 @@
 			<string>static</string>
 		</dict>
 		<dict>
-			<key>New item</key>
-			<dict>
-				<key>Default</key>
-				<string>___VARIABLE_sceneName:identifier___ViewController</string>
-				<key>Description</key>
-				<string>The view controller name</string>
-				<key>Identifier</key>
-				<string>viewControllerName</string>
-				<key>Name</key>
-				<string>View Controller Name:</string>
-				<key>Required</key>
-				<true/>
-				<key>Type</key>
-				<string>static</string>
-			</dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Composer</string>
+			<string>___VARIABLE_sceneName:identifier___Factory</string>
 			<key>Description</key>
-			<string>The composer name</string>
+			<string>The factory name</string>
 			<key>Identifier</key>
-			<string>composerName</string>
+			<string>factoryName</string>
 			<key>Name</key>
-			<string>Composer Name:</string>
+			<string>Factory Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>

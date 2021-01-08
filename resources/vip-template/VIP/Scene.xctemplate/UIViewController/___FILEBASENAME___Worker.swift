@@ -8,10 +8,11 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___WorkerProtocol {}
+protocol ___VARIABLE_sceneName___Workable {}
 
-class ___VARIABLE_sceneName___Worker: ___VARIABLE_sceneName___WorkerProtocol {
+final class ___VARIABLE_sceneName___Worker {
 
-    init() {
-    }
+    init() {}
 }
+
+extension ___VARIABLE_sceneName___Worker: ___VARIABLE_sceneName___Workable {}

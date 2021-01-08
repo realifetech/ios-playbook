@@ -8,9 +8,15 @@
 
 import UIKit
 
-protocol ___VARIABLE_sceneName___RouterProtocol {}
+protocol ___VARIABLE_sceneName___Routable {}
 
-class ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___RouterProtocol {
+final class ___VARIABLE_sceneName___Router {
 
-    weak var vc: ___VARIABLE_sceneName___ViewController?
+    private weak var vc: UIViewController?
+
+    func bind(to vc: UIViewController?) {
+        self.vc = vc
+    }
 }
+
+extension ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___Routable {}

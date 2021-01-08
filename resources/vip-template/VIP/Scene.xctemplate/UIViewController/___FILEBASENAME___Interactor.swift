@@ -8,18 +8,19 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___InteractorProtocol {
-    // Replaced by interactor's output functions and conform the protocol in presenter
+protocol ___VARIABLE_sceneName___Interactable {
+    // Replaced by view's output functions
 }
 
-class ___VARIABLE_sceneName___Interactor {
+final class ___VARIABLE_sceneName___Interactor {
 
-    var presenter: ___VARIABLE_sceneName___PresenterProtocol?
-    let worker: ___VARIABLE_sceneName___WorkerProtocol
+    private let presenter: ___VARIABLE_sceneName___Presentable
+    private let worker: ___VARIABLE_sceneName___Workable
 
-    init(worker: ___VARIABLE_sceneName___Worker) {
+    init(presenter: ___VARIABLE_sceneName___Presentable, worker: ___VARIABLE_sceneName___Workable) {
+        self.presenter = presenter
         self.worker = worker
     }
 }
 
-extension ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___InteractorProtocol {}
+extension ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___Interactable {}
