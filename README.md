@@ -24,7 +24,7 @@ This team looks after the RealifeTech's iOS platform. We develop new features, t
 | Ross Patman  | 󠁮󠁧🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
 | Mickey Lee  | 🇹🇼 |
 | Jonathon Albert | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
-| Emal Saifi  | 🇫🇷 |
-| Olivier Butler  | 🇫🇷 🇬🇧 󠁧󠁢󠁥󠁮󠁧|
+| Preston Spalding | 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿 |
+| You-Hsuan Yu | 🇹🇼 |
 
 📸 Instagram: https://www.instagram.com/realifetechtalent/
