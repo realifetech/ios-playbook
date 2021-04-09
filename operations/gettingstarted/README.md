@@ -16,6 +16,25 @@ or HTTPS:
 ```
 git clone https://{yourusername}@bitbucket.org/livestyled-dev/frontier.ios.git
 ```
+## Perform Pre-Build Configuration
+
+### Requirements
+* (If building client apps) Access to [Frame](https://frame.realifetech.com/)
+
+### Instructions
+
+Navigate to the project's scripts directory
+```
+cd ./scripts
+```
+Run the fetch assets script with the default configuration
+```
+bash fetch_assets.sh
+```
+or, if you wish to build for a specific client (using their feature activations, styles, endpoints etc), look up their 'app code' on Frame and pass it into the fetch assets script:
+```
+bash fetch_assets.sh APP_CODE
+```
 
 ## Installing dependencies
 
@@ -33,24 +52,10 @@ If you run into issues when switching between brances with different pods, you m
 pod install --repo update
 ```
 
-## Switching between branches/apps
-Fetch all branches using:
-```
-git fetch
-```
-Check out a branch using:
-```
-git checkout {branchname}
-```
-Reset changes using (you should do this when finished, and when switching branches):
-```
-git checkout .
-```
-
 ## Running the project
 
 ### Requirements
-- XCode 10.2.1
+- XCode 12.4
 
 ### Instructions
 1. Open the .workspace file in the project's directory
