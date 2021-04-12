@@ -19,6 +19,8 @@ git clone https://{yourusername}@bitbucket.org/livestyled-dev/frontier.ios.git
 ## Perform Pre-Build Configuration
 
 ### Requirements
+* [ImageMagik](https://imagemagick.org/script/download.php#macosx)
+* Python 2.7 (if on BigSur, consider pyenv)
 * If you wish to build a client's app, you will need access to [Frame](https://frame.realifetech.com/), or to know the client's app code.
 
 ### Instructions
@@ -52,7 +54,7 @@ If you run into issues when switching between brances with different pods, you m
 ```
 pod install --repo update
 ```
-Note, if you run the install command from outside the root, you may see the following error: `Invalid Podfile file: cannot load such file -- Scripts/DynamicModules.rb`. To fix this, in your terminal navigate back to the project root and run `$ pod install` again.
+Note, if you run the install command from outside the project root directory, you may see the following error: `Invalid Podfile file: cannot load such file -- Scripts/DynamicModules.rb`. To fix this, in your terminal navigate back to the project root and run `$ pod install` again.
 
 ## Running the project
 
