@@ -59,7 +59,7 @@ Note, if you run the install command from outside the project root directory, yo
 ## Running the project
 
 ### Requirements
-- XCode 12.4
+- Xcode 12.4
 
 ### Instructions
 1. Open the .workspace file in the project's directory
