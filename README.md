@@ -18,6 +18,18 @@ This team looks after the RealifeTech's iOS platform. We develop new features, t
 - [Re-skin Client Apps](/operations/reskinclientapps/README.md) 📱
 - [VIP Template](/resources/vip-template/README.md) 📑
 
+## Team Goals
+Here are a list of our goals as a team that we will aim to work towards
+- 🎯 General Modularisation
+- 🎯
+- 🎯
+- 🎯
+- 🎯
+
+## Team Ethos
+
+Coming Soon...
+
 ## The team
 | Name  | Info |
 | ------------- | ------------- |
